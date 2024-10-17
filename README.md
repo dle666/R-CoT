@@ -13,6 +13,10 @@
 ## News 
 Data and code will be coming soon.
 
+
+## Dataset
+We will soon release the data.
+
 ## 🐳 Model Zoo
 Model weights will be coming soon.
 
@@ -33,8 +37,6 @@ pip install -r requirements.txt
 pip install flash-attn==2.3.6 --no-build-isolation
 ```
 
-## Dataset
-We will soon release the data.
 
 ## Evaluation
 
