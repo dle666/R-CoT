@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-    <img src="https://s21.ax1x.com/2024/10/17/pAUm9qH.png" width="100" style="margin-bottom: 0.2;"/>
+    <img src="https://s21.ax1x.com/2024/10/17/pAUm9qH.png" width="60" style="margin-bottom: 0.2;"/>
 <p>
 
 <h3 align="center"> <a href="">R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models</a></h3>
