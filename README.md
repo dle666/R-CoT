@@ -1,5 +1,3 @@
-# 
-
 <p align="center">
     <img src="https://s21.ax1x.com/2024/10/17/pAUm9qH.png" width="80" style="margin-bottom: 0.2;"/>
 <p>
@@ -19,7 +17,7 @@ Data and code will be coming soon.
 Model weights will be coming soon.
 
 ## Environment
-# NPU
+### NPU
 ```python
 pip install --upgrade deepspeed
 pip install torchvision==0.16.0
@@ -27,10 +25,18 @@ pip install torch==2.1.0
 pip install transformers==4.32.0
 pip install torch_npu==2.1.0
 ```
-# GPU
+### GPU
 ```python
 conda create -n rcot python=3.9 -y
 conda activate rcot
 pip install -r requirements.txt
 pip install flash-attn==2.3.6 --no-build-isolation
 ```
+
+## Dataset
+We will soon release the data.
+
+## Evaluation
+
+
+## Train
