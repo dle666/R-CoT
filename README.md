@@ -40,6 +40,23 @@ pip install flash-attn==2.3.6 --no-build-isolation
 
 ## Evaluation
 ### Mathista (geometry problem solving)
+You need to download the test image [MathVista_test.zip](https://huggingface.co/datasets/dle666/R-CoT). Unzip and rename it to "images" and place it in the path MathVista_eval/data.
+
+We give the response generation scripts for the different models, they start with "generate_response_geo", here R-CoT-7B is used as an example:
+```python
+cd MathVista_eval/evaluation
+python generate_response_geo_rcot7b.py -output_dir ../results --output_file output_bard.json --checkpoint weight_path
+```
+
+Extract the short answer text for score calculation:
+```python
+python extract_answer.py --output_dir ../results --output_file output_bard.json 
+```
+
+Calculate the final score:
+```python
+python calculate_score.py --output_dir ../results --output_file output_bard.json --score_file scores.json
+```
 
 ### GeoQA
 
