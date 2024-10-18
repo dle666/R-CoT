@@ -15,7 +15,7 @@ Data and code will be coming soon.
 
 
 ## Dataset
-We will soon release the data.
+You can download the training and testing data used by R-CoT from [R-CoT_Data](https://huggingface.co/datasets/dle666/R-CoT).
 
 ## 🐳 Model Zoo
 Model weights will be coming soon.
