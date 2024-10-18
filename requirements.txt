@@ -1,4 +1,47 @@
--r requirements/internvl_chat.txt
--r requirements/streamlit_demo.txt
--r requirements/classification.txt
--r requirements/segmentation.txt
+accelerate
+bitsandbytes==0.41.0
+decord
+deepspeed==0.13.5
+einops==0.6.1
+einops-exts==0.0.4
+fastapi
+future
+gdown
+gradio==3.35.2
+gradio_client==0.2.9
+httpx==0.24.0
+huggingface_hub
+imageio
+importlib_metadata
+markdown2[all]
+mmcv-full==1.6.2
+mmsegmentation==0.30.0
+numpy
+opencv-python
+openmim
+ordered-set
+orjson
+peft>=0.4.0
+platformdirs
+pycocoevalcap
+pydantic
+pyyaml
+requests
+scikit-learn>=1.2.2
+scipy
+sentencepiece==0.1.99
+shortuuid
+streamlit
+streamlit-image-select
+tensorboardX
+termcolor
+timm==0.9.12
+tokenizers==0.15.1
+tomli
+torch>=2
+torchvision>=0.15
+tqdm
+transformers==4.37.2
+uvicorn
+yacs
+yapf==0.40.1
