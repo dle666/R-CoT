@@ -39,6 +39,9 @@ pip install flash-attn==2.3.6 --no-build-isolation
 
 
 ## Evaluation
+### Mathista (geometry problem solving)
+
+### GeoQA
 
 
 ## Train
