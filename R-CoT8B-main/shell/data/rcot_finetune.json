@@ -1,0 +1,30 @@
+{
+  "polygon": {
+    "root": "GeoMM/result/",
+    "annotation": "R-CoT8B-main/rcot8b_json/result_polygon_mathqa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 52659
+  },
+  "circle": {
+    "root": "GeoMM/result_circle/",
+    "annotation": "R-CoT8B-main/rcot8b_json/result_circle_mathqa.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 34198
+  },
+  "geo3k": {
+    "root": "geo170k/geo3k/",
+    "annotation": "R-CoT8B-main/rcot8b_json/geo3k_gllava.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 2101
+  },
+  "geoqa": {
+    "root": "geo170k/geoqa_plus/",
+    "annotation": "R-CoT8B-main/rcot8b_json/geo170k_no3k.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 115104
+  }
+}
