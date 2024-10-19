@@ -28,7 +28,7 @@ torchrun \
   --nproc_per_node=${GPUS} \
   --master_port=${MASTER_PORT} \
   rcot8b/train/rcot8b_chat_finetune.py \
-  --model_name_or_path "/root/paddlejob/workspace/env_run/dlluo/dle/f71474a0c45fc589791a41b14a0219e840554cc1" \
+  --model_name_or_path "./pretrained/InternVL2-8B" \
   --conv_style "internlm2-chat" \
   --output_dir ${OUTPUT_DIR} \
   --meta_path "./shell/data/rcot_finetune.json" \
