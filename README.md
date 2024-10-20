@@ -122,3 +122,6 @@ You need to place the downloaded 'rcot8b_rcot2b_training_json' under the path se
 cd R-CoT2B-main
 sh shell/R-CoT-2B/rcot2b_finetune_full.sh
 ```
+
+## Acknowledgement
+R-CoT focuses on generating high-quality mathematical inference data to improve the inference performance of models. R-CoT is based on QwenVL, InternVL2, and InternLM-XC2. Thanks to [Qwen-VL](https://github.com/QwenLM/Qwen-VL.git), [InternVL](https://github.com/OpenGVLab/InternVL), [InternLM-XC2](https://github.com/InternLM/InternLM-XComposer) and [LLaVA](https://github.com/haotian-liu/LLaVA).
