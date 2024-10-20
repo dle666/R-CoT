@@ -11,7 +11,7 @@ export MASTER_PORT=34228
 export TF_CPP_MIN_LOG_LEVEL=3
 export LAUNCHER=pytorch
 
-OUTPUT_DIR='work_dirs/minimonkey_chat_baseline'
+OUTPUT_DIR='work_dirs/rcot-2b'
 
 if [ ! -d "$OUTPUT_DIR" ]; then
   mkdir -p "$OUTPUT_DIR"
@@ -29,7 +29,7 @@ torchrun \
   --nproc_per_node=${GPUS} \
   --master_port=${MASTER_PORT} \
   rcot2b/train/rcot2b_chat_finetune.py \
-  --model_name_or_path "/root/paddlejob/workspace/env_run/dlluo/dle/checkpoint-3200" \
+  --model_name_or_path "./pretrained/Minimonkey" \
   --conv_style "internlm2-chat" \
   --output_dir ${OUTPUT_DIR} \
   --meta_path "/root/paddlejob/workspace/env_run/dlluo/dle/R-CoT2B-main/shell/data/rcot_finetune.json" \
