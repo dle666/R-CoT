@@ -81,3 +81,24 @@ python geo_acc_calculate.py --predictions_file path-to-output-file
 ```
 
 ## Train
+The json file used for R-CoT training can be downloaded at [Link](https://huggingface.co/datasets/dle666/R-CoT). Please change the image path in the json file to your path and put the image under your path.
+For R-CoT-8B:
+You need to place the downloaded 'rcot8b_rcot2b_training_json' under the path set in 'shell/data/rcot_finetune.json'
+```python
+cd R-CoT8B-main
+sh shell/R-CoT-8B/rcot8b_finetune_full.sh
+```
+
+For R-CoT-7B:
+You need to place the downloaded 'GeoMM.json' and 'geo170k.json' under the path set in 'data.txt'
+```python
+cd R-CoT7B-main
+sh finetune.sh
+```
+
+For R-CoT-2B:
+You need to place the downloaded 'rcot8b_rcot2b_training_json' under the path set in 'shell/data/rcot_finetune.json'
+```python
+cd R-CoT2B-main
+sh shell/R-CoT-2B/rcot2b_finetune_full.sh
+```
