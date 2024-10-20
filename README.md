@@ -34,14 +34,6 @@ You can download the training and testing data used by R-CoT from [R-CoT_Data](h
 
 
 ## Environment
-### NPU
-```python
-pip install --upgrade deepspeed
-pip install torchvision==0.16.0
-pip install torch==2.1.0
-pip install transformers==4.32.0
-pip install torch_npu==2.1.0
-```
 ### GPU
 ```python
 conda create -n rcot python=3.9 -y
@@ -50,6 +42,22 @@ pip install -r requirements.txt
 pip install flash-attn==2.3.6 --no-build-isolation
 ```
 
+### NPU
+```python
+pip install --upgrade deepspeed
+pip install torchvision==0.16.0
+pip install torch==2.1.0
+pip install transformers==4.32.0
+pip install torch_npu==2.1.0
+```
+
+### Modify code to adapt to NPU
+Needs to be added in a training script (e.g. finetune.py):
+```python
+import torch_npu
+from torch_npu.contrib import transfer_to_npu
+```
+Replace --bp16 with --fp16 in sh scripts and weight config files.
 
 ## Evaluation
 ### Mathista (geometry problem solving)
