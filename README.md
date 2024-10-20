@@ -83,6 +83,7 @@ python calculate_score.py --output_dir ../results --output_file output_bard.json
 You need to download the test image [GeoQA_test.zip](https://huggingface.co/datasets/dle666/R-CoT). Unzip and rename it to "test" and place it in the path GeoQA_test/images/test.
 Generate responses from the model:
 ```python
+cd GeoQA_test
 python model_vqa.py --checkpoint weight_path
 ```
 
