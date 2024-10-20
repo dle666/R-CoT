@@ -16,8 +16,8 @@ from transformers import Trainer, deepspeed
 from transformers.trainer_pt_utils import LabelSmoother
 from torch.utils.tensorboard import SummaryWriter
 
-import torch_npu
-from torch_npu.contrib import transfer_to_npu
+# import torch_npu
+# from torch_npu.contrib import transfer_to_npu
 
 IGNORE_TOKEN_ID = LabelSmoother.ignore_index
 
