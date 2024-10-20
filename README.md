@@ -20,6 +20,13 @@
 ## Dataset
 You can download the training and testing data used by R-CoT from [R-CoT_Data](https://huggingface.co/datasets/dle666/R-CoT).
 
+<br>
+<p align="center">
+    <img src="https://s21.ax1x.com/2024/10/20/pAa3zjI.png" width="666"/>
+<p>
+<br>
+
+    
 ## 🐳 Model Zoo
 
 <div align="center">
