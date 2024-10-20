@@ -22,7 +22,7 @@ You can download the training and testing data used by R-CoT from [R-CoT_Data](h
 
 <br>
 <p align="center">
-    <img src="https://s21.ax1x.com/2024/10/20/pAa8Lq0.png" width="666"/>
+    <img src="https://s21.ax1x.com/2024/10/20/pAaGpRJ.png" width="1000"/>
 <p>
 <br>
 
