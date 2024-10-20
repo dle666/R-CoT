@@ -18,15 +18,10 @@ Data and code will be coming soon.
 You can download the training and testing data used by R-CoT from [R-CoT_Data](https://huggingface.co/datasets/dle666/R-CoT).
 
 ## 🐳 Model Zoo
-| Model|Vision Part|Language Model|Transformers(HF)|
-|------------|------------------------|--------------------|-------------------------------------------------------|
-|R-CoT-8B    |InternViT‑300M‑448px    |internlm2_5‑7b‑chat |[🤗R-CoT-8B](https://huggingface.co/dle666/R-CoT-8B)    |
-|R-CoT-7B    |EVA-CLIP                |InternLM-Chat-7B    |[🤗R-CoT-7B](https://huggingface.co/dle666/R-CoT-7B)    |
-|R-CoT-2B    |InternViT‑300M‑448px    |internlm2-chat-1_8b |[🤗R-CoT-2B](https://huggingface.co/dle666/R-CoT-2B)    |
 
 <div align="center">
 
-|    Model    |       Vision Part         |           Language Model             |          Transformers (HF)           |
+|   Model Name   |       Vision Part         |           Language Model             |          Transformers (HF)           |
 |:-----------:|:-------------------------:|:------------------------------------:|:------------------------------------:|
 |  **R-CoT-8B**  | InternViT‑300M‑448px     | internlm2_5‑7b‑chat                  | [🤗R-CoT-8B](https://huggingface.co/dle666/R-CoT-8B) |
 |  **R-CoT-7B**  | EVA-CLIP                | InternLM-Chat-7B                     | [🤗R-CoT-7B](https://huggingface.co/dle666/R-CoT-7B) |
