@@ -11,10 +11,10 @@
 
 
 ## News 
-🎉🎉🎉 We source the GeoMM dataset.
-🎉🎉🎉 We source the model weights for R-CoT-8B, R-CoT-7B, R-CoT-2B.
-🎉🎉🎉 We source the evaluation code.
-🎉🎉🎉 We source the training code.
+* 🎉🎉🎉 We source the GeoMM dataset.
+* 🎉🎉🎉 We source the model weights for R-CoT-8B, R-CoT-7B, R-CoT-2B.
+* 🎉🎉🎉 We source the evaluation code.
+* 🎉🎉🎉 We source the training code.
 
 
 ## Dataset
