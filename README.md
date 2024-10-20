@@ -23,7 +23,7 @@ You can download the training and testing data used by R-CoT from [R-CoT_Data](h
 Examples of GeoMM:
 <br>
 <p align="center">
-    <img src="https://s21.ax1x.com/2024/10/20/pAaGpRJ.png" width="700"/>
+    <img src="https://s21.ax1x.com/2024/10/20/pAaGpRJ.png" width="800"/>
 <p>
 <br>
 
