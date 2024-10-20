@@ -21,7 +21,7 @@ You can download the training and testing data used by R-CoT from [R-CoT_Data](h
 
 <div align="center">
 
-|   Model Name   |       Vision Part         |           Language Model             |          Transformers (HF)           |
+|   Model Name   |    &nbsp Vision Part &nbsp      |     &nbsp Language Model &nbsp      |       &nbsp Transformers (HF) &nbsp     |
 |:-----------:|:-------------------------:|:------------------------------------:|:------------------------------------:|
 |  **R-CoT-8B**  | InternViT‑300M‑448px     | internlm2_5‑7b‑chat                  | [🤗R-CoT-8B](https://huggingface.co/dle666/R-CoT-8B) |
 |  **R-CoT-7B**  | EVA-CLIP                | InternLM-Chat-7B                     | [🤗R-CoT-7B](https://huggingface.co/dle666/R-CoT-7B) |
