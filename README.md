@@ -19,6 +19,7 @@
 
 ## Dataset
 You can download the training and testing data used by R-CoT from [R-CoT_Data](https://huggingface.co/datasets/dle666/R-CoT).
+
 Examples of GeoMM:
 <br>
 <p align="center">
