@@ -32,12 +32,12 @@ Examples of GeoMM:
 
 <div align="center">
 
-|   Model Name   |    Vision Part      |     Language Model      |       Transformers (HF)    |
+|   Model Name   |    Vision Part      |     Language Model      |       Transformers (HF)    |  MathVista(Geo)  |  GeoQA  |
 |:-----------:|:-------------------------:|:------------------------------------:|:------------------------------------:|
-|  **R-CoT-8B**  | InternViT‑300M‑448px   | internlm2_5‑7b‑chat                  | [🤗R-CoT-8B](https://huggingface.co/dle666/R-CoT-8B) |
-|  **R-CoT-7B**  | EVA-CLIP               | InternLM-Chat-7B                     | [🤗R-CoT-7B](https://huggingface.co/dle666/R-CoT-7B) |
-|  **R-CoT-2B**  | InternViT‑300M‑448px   | internlm2-chat-1_8b                  | [🤗R-CoT-2B](https://huggingface.co/dle666/R-CoT-2B) |
-| **R-CoT-Qwen** | Vit-BigG               |  Qwen-7B                             | [🤗R-CoT-Qwen](https://huggingface.co/dle666/R-CoT-Qwen) |
+|  **R-CoT-8B**  | InternViT‑300M‑448px   | internlm2_5‑7b‑chat                  | [🤗R-CoT-8B](https://huggingface.co/dle666/R-CoT-8B) |  75.0  |  75.1  |
+|  **R-CoT-7B**  | EVA-CLIP               | InternLM-Chat-7B                     | [🤗R-CoT-7B](https://huggingface.co/dle666/R-CoT-7B) |  62.5  |  68.2  |
+|  **R-CoT-2B**  | InternViT‑300M‑448px   | internlm2-chat-1_8b                  | [🤗R-CoT-2B](https://huggingface.co/dle666/R-CoT-2B) |  57.7  |  62.6  |
+| **R-CoT-Qwen** | Vit-BigG               |  Qwen-7B                             | [🤗R-CoT-Qwen](https://huggingface.co/dle666/R-CoT-Qwen) | 50.5 | 57.0 |
 
 </div>
 
