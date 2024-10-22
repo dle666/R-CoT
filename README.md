@@ -9,7 +9,7 @@
 
 <h5 align="center">
 
-https://github.com/user-attachments/assets/da5fdf3c-4f5b-4f09-b538-41bc5088b6a1
+https://github.com/user-attachments/assets/b7eef71d-2fbe-486d-9ac0-552346edf444
 
 ## News 
 * 🎉🎉🎉 We source the GeoMM dataset.
