@@ -70,7 +70,7 @@ from torch_npu.contrib import transfer_to_npu
 Replace --bp16 with --fp16 in sh scripts and weight config files.
 
 ## Evaluation
-### Mathista (geometry problem solving)
+### MathVista (geometry problem solving)
 You need to download the test image [MathVista_test.zip](https://huggingface.co/datasets/dle666/R-CoT). Unzip and rename it to "images" and place it in the path MathVista_eval/data.
 
 We give the response generation scripts for the different models, they start with "generate_response_geo", here R-CoT-7B is used as an example:
