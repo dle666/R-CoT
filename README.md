@@ -128,3 +128,6 @@ sh shell/R-CoT-2B/rcot2b_finetune_full.sh
 
 ## Acknowledgement
 R-CoT focuses on generating high-quality mathematical inference data to improve the inference performance of models. R-CoT is based on QwenVL, InternVL2, and InternLM-XC2. Thanks to [Qwen-VL](https://github.com/QwenLM/Qwen-VL.git), [InternVL](https://github.com/OpenGVLab/InternVL), [InternLM-XC2](https://github.com/InternLM/InternLM-XComposer) and [LLaVA](https://github.com/haotian-liu/LLaVA).
+
+## Copyright
+R-CoT project is intended for non-commercial use only. For commercial inquiries or to explore more advanced versions of the R-CoT series LMMs, please contact Prof. Yuliang Liu at ylliu@hust.edu.cn.
