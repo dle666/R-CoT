@@ -8,9 +8,7 @@
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
 
 <h5 align="center">
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.06607-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.17885) 
-[![GitHub issues](https://img.shields.io/github/issues/Yuliang-Liu/Monkey?color=critical&label=Issues)](https://github.com/dle666/R-CoT/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/Yuliang-Liu/Monkey?color=success&label=Issues)](https://github.com/dle666/R-CoT/issues?q=is%3Aissue+is%3Aclosed)  <br>
+[![arXiv](https://img.shields.io/badge/Arxiv-2311.06607-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.17885) <br>
 </h5>
 
 <h5 align="center">
