@@ -2,23 +2,10 @@
     <img src="https://s21.ax1x.com/2024/10/17/pAUm9qH.png" width="80" style="margin-bottom: 0.2;"/>
 <p>
 
-<h3 align="center"> <a href="">R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models</a></h3>
+<h3 align="center"> <a href="https://arxiv.org/abs/2410.17885">R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models</a></h3>
 <h2></h2>
 
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
-
-<h5 align="center">
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.06607-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.17885) <br>
-</h5>
-
-<h5 align="center">
-
- 
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.06607-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.06607) 
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/Yuliang-Liu/Monkey/blob/main/LICENSE) 
-[![GitHub issues](https://img.shields.io/github/issues/Yuliang-Liu/Monkey?color=critical&label=Issues)](https://github.com/Yuliang-Liu/Monkey/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/Yuliang-Liu/Monkey?color=success&label=Issues)](https://github.com/Yuliang-Liu/Monkey/issues?q=is%3Aissue+is%3Aclosed)  <br>
-</h5>
 
 https://github.com/user-attachments/assets/b271b472-d478-4f52-b743-d62526c53781
 
@@ -27,6 +14,7 @@ https://github.com/user-attachments/assets/b271b472-d478-4f52-b743-d62526c53781
 * 🎉🎉🎉 We source the model weights for R-CoT-8B, R-CoT-7B, R-CoT-2B.
 * 🎉🎉🎉 We source the evaluation code.
 * 🎉🎉🎉 We source the training code.
+* 🎉🎉🎉 We release the paper [R-CoT](https://arxiv.org/abs/2410.17885)
 
 
 ## Dataset
