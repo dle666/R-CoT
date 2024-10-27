@@ -10,11 +10,10 @@
 https://github.com/user-attachments/assets/1c3c578b-c689-4638-9dfe-e0b67ec2650d
 
 ## News 
-* ```2024.10.10``` 🎉🎉🎉 We source the GeoMM dataset.
-* ```2024.10.10``` 🎉🎉🎉 We source the model weights for R-CoT-8B, R-CoT-7B, R-CoT-2B.
-* ```2024.10.10``` 🎉🎉🎉 We source the evaluation code.
-* ```2024.10.10``` 🎉🎉🎉 We source the training code.
-* 🎉🎉🎉 We release the paper [R-CoT](https://arxiv.org/abs/2410.17885).
+* ```2024.10.18``` 🎉🎉🎉 We source the GeoMM dataset.
+* ```2024.10.19``` 🎉🎉🎉 We source the model weights for the R-CoT-8B, R-CoT-7B, and R-CoT-2B, as well as the evaluation code.
+* ```2024.10.21``` 🎉🎉🎉 We source the training code.
+* ```2024.10.23```🎉🎉🎉 We release the paper [R-CoT](https://arxiv.org/abs/2410.17885).
 
 
 ## Dataset
