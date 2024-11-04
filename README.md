@@ -126,12 +126,14 @@ sh shell/R-CoT-2B/rcot2b_finetune_full.sh
 ## Citing R-CoT
 If you wish to refer to the baseline results published here, please use the following BibTeX entries:
 
+```BibTeX
 @article{deng2024r,
   title={R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models},
   author={Deng, Linger and Liu, Yuliang and Li, Bohan and Luo, Dongliang and Wu, Liang and Zhang, Chengquan and Lyu, Pengyuan and Zhang, Ziyang and Zhang, Gang and Ding, Errui and others},
   journal={arXiv preprint arXiv:2410.17885},
   year={2024}
 }
+```
 
 ## Acknowledgement
 R-CoT focuses on generating high-quality mathematical inference data to improve the inference performance of models. R-CoT is based on QwenVL, InternVL2, and InternLM-XC2. Thanks to [Qwen-VL](https://github.com/QwenLM/Qwen-VL.git), [InternVL](https://github.com/OpenGVLab/InternVL), [InternLM-XC2](https://github.com/InternLM/InternLM-XComposer) and [LLaVA](https://github.com/haotian-liu/LLaVA).
